@@ -3,25 +3,25 @@
 This project is focused on predicting the fare amount for taxi rides based on factors such as pickup and dropoff locations, the number of passengers, and time of day. The model is trained using historical data and applies machine learning techniques for accurate predictions.
 
 # Table of Contents
-**1. Project Overview**
+1. [Project Overview](#project-overview)
 
-**2. Dataset**
+2. [Dataset](#dataset)
 
-**3. Features**
+3. [Features](#features)
 
-**4. Modeling Approach**
+4. [Modeling Approach](#modeling-approach)
 
-**5. Installation**
+5. [Installation](#installation)
 
-**6. Usage**
+6. [Usage](#usage)
 
-**7. Evaluation Metrics**
+7. [Evaluation Metrics](#evaluation-metrics)
 
-**8. Results**
+8. [Results](#results)
 
-**9. Contributing**
+9. [Contributing](#contributing)
 
-**10. License**
+10. [License](#license)
 
 # Project Overview
 
@@ -163,4 +163,6 @@ Contributions are welcome! If you would like to contribute to this project:
 
 # License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
+
+[MIT License](#mit-license)
