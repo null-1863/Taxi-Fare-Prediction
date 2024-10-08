@@ -165,4 +165,4 @@ Contributions are welcome! If you would like to contribute to this project:
 
 This project is licensed under the MIT License.
 
-[MIT License](#mit-license)
+[MIT License](./LICENSE)
